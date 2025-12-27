@@ -3,7 +3,8 @@
   "default": {
     "--workspace": ".",
     "--additional": "/DisplayAllFunctions /Lru  /iTaxi /debug -http -attach /debuggerURL http://localhost:1550",
-    "--ordinaryapp": "-1"
+    "--ordinaryapp": "-1",
+    "--v8version": "8.3.27.1606"
   },
   "run": {
     "--command": "ЗапуститьОбновлениеИнформационнойБазы;ЗавершитьРаботуСистемы;",
