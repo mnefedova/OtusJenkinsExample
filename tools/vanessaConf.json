@@ -11,6 +11,7 @@
     "$workspaceRoot/features"
   ],
   "ИмяСборки": "otus",
+  "ВерсияПлатформы": "8.3.27.1606",
   "СписокТеговИсключение": [
     "IgnoreOnCIMainBuild",
     "FirstStart",
